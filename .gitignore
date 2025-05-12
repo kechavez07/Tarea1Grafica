@@ -1,0 +1,43 @@
+# Archivos y carpetas del entorno de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Directorios de compilación
+bin/
+obj/
+
+# Archivos generados automáticamente
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.csproj.user
+*.dbmdl
+
+# Archivos de recursos generados por diseñador
+*.resx
+*.resources
+
+# Archivos de índice de Visual Studio
+*.vsidx
+
+# Archivos del workspace
+*.VC.db
+*.VC.VC.opendb
+
+# Configuraciones específicas del usuario
+*.vscode/
+*.idea/
+*.swp
+*.tmp
+*.bak
+
+# Archivos de salida de publicación
+publish/
+
+# Carpetas de paquetes
+packages/
