@@ -1,0 +1,48 @@
+D:\7 semestre\Grafica\Repo\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\7 semestre\Grafica\Repo\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmCirculo.resources
+D:\7 semestre\Grafica\Repo\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmCuadrado.resources
+D:\7 semestre\Grafica\Repo\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHome.resources
+D:\7 semestre\Grafica\Repo\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmTriangulo.resources
+D:\7 semestre\Grafica\Repo\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\7 semestre\Grafica\Repo\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\7 semestre\Grafica\Repo\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\7 semestre\Grafica\Repo\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\7 semestre\Grafica\Repo\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\7 semestre\Grafica\Repo\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\7 semestre\Grafica\Repo\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\7 semestre\Grafica\Repo\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\7 semestre\Grafica\Repo\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDecagono.resources
+D:\7 semestre\Grafica\Repo\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHeptagono.resources
+D:\7 semestre\Grafica\Repo\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPentagono.resources
+D:\7 semestre\Grafica\Repo\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmRomboide.resources
+D:\7 semestre\Grafica\Repo\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmTrapecio.resources
+D:\7 semestre\Grafica\Repo\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmTrapecioIso.resources
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmCirculo.resources
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmCuadrado.resources
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDecagono.resources
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHeptagono.resources
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHome.resources
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPentagono.resources
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmRomboide.resources
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmTrapecio.resources
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmTrapecioIso.resources
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmTriangulo.resources
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmOctagono.resources
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmEneagono.resources
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHexagono.resources
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmTrapezoide.resources
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmRectangulo.resources
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmRombo.resources
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDeltoide.resources
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmElipse.resources
+C:\Users\kleen\Source\Repos\CompGrafica\Area_Perimetro_Figuras\Perimetro_Area_Figuras\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmOvalo.resources

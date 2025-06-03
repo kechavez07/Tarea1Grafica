@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kleen\\source\\repos\\CompGrafica\\Area_Perimetro_Figuras\\Perimetro_Area_Figuras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67B39205-F19C-4643-9C3F-B7D665CBE9AE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\kleen\\source\\repos\\compgrafica\\area_perimetro_figuras\\perimetro_area_figuras\\windowsformsapp1\\frmdeltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B39205-F19C-4643-9C3F-B7D665CBE9AE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmdeltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B39205-F19C-4643-9C3F-B7D665CBE9AE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\kleen\\source\\repos\\CompGrafica\\Area_Perimetro_Figuras\\Perimetro_Area_Figuras\\windowsformsapp1\\frmtrapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67B39205-F19C-4643-9C3F-B7D665CBE9AE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmtrapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B39205-F19C-4643-9C3F-B7D665CBE9AE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\kleen\\source\\repos\\CompGrafica\\Area_Perimetro_Figuras\\Perimetro_Area_Figuras\\windowsformsapp1\\frmtriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67B39205-F19C-4643-9C3F-B7D665CBE9AE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmtriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B39205-F19C-4643-9C3F-B7D665CBE9AE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\kleen\\source\\repos\\CompGrafica\\Area_Perimetro_Figuras\\Perimetro_Area_Figuras\\windowsformsapp1\\frmtrapecioiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67B39205-F19C-4643-9C3F-B7D665CBE9AE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmtrapecioiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B39205-F19C-4643-9C3F-B7D665CBE9AE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\kleen\\source\\repos\\CompGrafica\\Area_Perimetro_Figuras\\Perimetro_Area_Figuras\\windowsformsapp1\\frmtrapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67B39205-F19C-4643-9C3F-B7D665CBE9AE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmtrapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 302,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDeltoide.cs",
+              "DocumentMoniker": "C:\\Users\\kleen\\source\\repos\\CompGrafica\\Area_Perimetro_Figuras\\Perimetro_Area_Figuras\\WindowsFormsApp1\\FrmDeltoide.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmDeltoide.cs",
+              "ToolTip": "C:\\Users\\kleen\\source\\repos\\CompGrafica\\Area_Perimetro_Figuras\\Perimetro_Area_Figuras\\WindowsFormsApp1\\FrmDeltoide.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\FrmDeltoide.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T03:37:54.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmTriangulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kleen\\source\\repos\\CompGrafica\\Area_Perimetro_Figuras\\Perimetro_Area_Figuras\\WindowsFormsApp1\\FrmTriangulo.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmTriangulo.cs",
+              "ToolTip": "C:\\Users\\kleen\\source\\repos\\CompGrafica\\Area_Perimetro_Figuras\\Perimetro_Area_Figuras\\WindowsFormsApp1\\FrmTriangulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp1\\FrmTriangulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T03:36:16.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmTrapezoide.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kleen\\source\\repos\\CompGrafica\\Area_Perimetro_Figuras\\Perimetro_Area_Figuras\\WindowsFormsApp1\\FrmTrapezoide.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmTrapezoide.cs",
+              "ToolTip": "C:\\Users\\kleen\\source\\repos\\CompGrafica\\Area_Perimetro_Figuras\\Perimetro_Area_Figuras\\WindowsFormsApp1\\FrmTrapezoide.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp1\\FrmTrapezoide.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T03:35:45.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmTrapecioIso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kleen\\source\\repos\\CompGrafica\\Area_Perimetro_Figuras\\Perimetro_Area_Figuras\\WindowsFormsApp1\\FrmTrapecioIso.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmTrapecioIso.cs",
+              "ToolTip": "C:\\Users\\kleen\\source\\repos\\CompGrafica\\Area_Perimetro_Figuras\\Perimetro_Area_Figuras\\WindowsFormsApp1\\FrmTrapecioIso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp1\\FrmTrapecioIso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T03:35:21.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmTrapecio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kleen\\source\\repos\\CompGrafica\\Area_Perimetro_Figuras\\Perimetro_Area_Figuras\\WindowsFormsApp1\\FrmTrapecio.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmTrapecio.cs",
+              "ToolTip": "C:\\Users\\kleen\\source\\repos\\CompGrafica\\Area_Perimetro_Figuras\\Perimetro_Area_Figuras\\WindowsFormsApp1\\FrmTrapecio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp1\\FrmTrapecio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T03:34:54.175Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
